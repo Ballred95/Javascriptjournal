@@ -35,5 +35,7 @@ year: 2015,
 vin:1234567890,
 }
 
+
 // a Higher order function is a function that takes another function as a parameter.
+// Higher order functions save time and are efficient
 
