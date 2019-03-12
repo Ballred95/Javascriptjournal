@@ -5,7 +5,7 @@ height: 100vh;
 display: flex;
 
 }
-#navbar{background-color:#B22305;
+#navbar{background-color:rgb(180, 64, 41);
 position: fixed;
 width: 100%;}
 
