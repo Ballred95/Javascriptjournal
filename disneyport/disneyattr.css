@@ -1,0 +1,10 @@
+.Ridename {background-color: pink;
+display: flex;
+flex-wrap: wrap;
+border: none;
+}
+
+h3 {color: green;
+margin: 10px;
+border: 2px saddlebrown dotted;
+}

@@ -1,0 +1,13 @@
+.Dinename {background-color: pink;
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    
+    }
+
+    h1 {
+        margin: 20px;
+        color: green;
+border: 2px saddlebrown dotted;
+    }
+

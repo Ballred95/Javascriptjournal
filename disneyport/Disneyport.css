@@ -1,0 +1,99 @@
+*{margin: 0;}
+
+#welcome-section{background-color:aquamarine;
+height: 100vh;
+display: flex;
+
+}
+#navbar{background-color:rgb(180, 64, 41);
+position: fixed;
+width: 100%;}
+
+ul{display: flex;
+justify-content: flex-end;
+}
+li{margin: 50px;
+margin-bottom: 7px;
+margin-top: 7px;
+display: flex;}
+.welcometxt{
+margin: auto;
+}
+
+#projects{color:grey;
+
+  
+}
+
+.project-tile{display: flex;
+margin-top: 20px;}
+
+figure {
+  border: thin #c0c0c0 solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  
+  margin: auto;
+}
+
+
+figcaption {
+  background-color: #222;
+  color: #fff;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
+
+  figure a {width: 220px}
+
+  #profile-link img {width: 150px;
+  margin-top: 20px;
+border-radius: 90%;
+margin-top: 350px;}
+
+#fb-link img {width: 150px;
+  margin-top: 20px;
+border-radius: 90%;
+margin-top: 350px;}
+
+#fcc-link img {width: 150px;
+  margin-top: 380px;
+
+}
+
+#profileflex{display: flex;
+justify-content: space-around;
+
+}
+
+ul li a{text-decoration: none;
+color: grey;
+font-family: cursive;}
+
+@media only screen  and (min-width : 1224px) {
+  #navbar{flex-wrap: wrap;}
+  }
+  .web{margin: auto;
+  }
+
+  .Dinename{
+    display: flex;
+    background-color: pink;
+  color: black};
+
+    .Ridename {background-color: gold;;
+      display: flex;
+      flex-wrap: wrap;
+      border: none;
+
+      }
+      
+      .Ridename h5 {color: green;
+      margin: 10px;
+      border: 2px saddlebrown dotted;
+      
+      }
+
+    body {background-color:aquamarine;}
